@@ -6,6 +6,8 @@ it will be the upper limit. For example, the program will say, "Pick a number be
 20 being the parameter provided by the user.
 
 Though this is a simple program, the primary purpose of this is for me to become familiar with Python syntax.
+
+try/except block is necessary in case the user provides invalid input (anything that is not an integer)
 """
 
 
